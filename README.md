@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prasham2302/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prasham2302/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Prasham2302/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
