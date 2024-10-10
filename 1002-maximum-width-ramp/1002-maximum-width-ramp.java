@@ -1,20 +1,23 @@
 class Solution {
     public int maxWidthRamp(int[] nums) {
-        ArrayList<Integer> decreasingStack = new ArrayList<>();
+        Stack<Integer> decreasingStack = new Stack<>();
         decreasingStack.add(0);
         for (int i = 1;i<nums.length;i++) {
-            int peek = nums[decreasingStack.get(decreasingStack.size() - 1)];
-            if (peek > nums[i]){
-                decreasingStack.add(i);
+            if (nums[decreasingStack.peek()] > nums[i]){
+                decreasingStack.push(i);
             }
         }
         int width = 0;
         for (int i = nums.length - 1;i>=0;i--) {
-            int idx = binarySearch(decreasingStack, nums[i], nums);
-            if (idx == -1){
-                continue;
+            if (decreasingStack.isEmpty()){
+                return width;
             }
-            width = Math.max(width, i - idx);
+            if (nums[i] >= nums[decreasingStack.peek()]){
+                System.out.println(nums[i] +" "+nums[decreasingStack.peek()]);
+                width = Math.max(width, i - decreasingStack.peek());
+                decreasingStack.pop();
+                i++;
+            }
         }
         return width;
     }
