@@ -23,24 +23,4 @@ class Solution {
         }
         return width;
     }
-    public int binarySearch(ArrayList<Integer> array, int target, int[] nums){
-        int left = 0, right = array.size()-1;
-        int ans = -1;
-        
-        // System.out.println("Array: "+array+" "+target);
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            int midValue = nums[array.get(mid)];
-            // System.out.println(left +" "+right+" "+midValue);
-            if (midValue <= target) {
-                ans = array.get(mid);
-                right = mid-1;
-            }
-            else{
-                left = mid+1;
-            }
-            // System.out.println("ANS: "+ans);
-        }
-        return ans;
-    }
 }
