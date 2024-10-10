@@ -8,15 +8,17 @@ class Solution {
             }
         }
         int width = 0;
-        for (int i = nums.length - 1;i>=0;i--) {
+        int i = nums.length-1;
+        while (i>=0) {
             if (decreasingStack.isEmpty()){
                 return width;
             }
             if (nums[i] >= nums[decreasingStack.peek()]){
-                // System.out.println(nums[i] +" "+nums[decreasingStack.peek()]);
                 width = Math.max(width, i - decreasingStack.peek());
                 decreasingStack.pop();
-                i++;
+            }
+            else {
+                i--;
             }
         }
         return width;
