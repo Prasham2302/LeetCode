@@ -13,7 +13,7 @@ class Solution {
                 return width;
             }
             if (nums[i] >= nums[decreasingStack.peek()]){
-                System.out.println(nums[i] +" "+nums[decreasingStack.peek()]);
+                // System.out.println(nums[i] +" "+nums[decreasingStack.peek()]);
                 width = Math.max(width, i - decreasingStack.peek());
                 decreasingStack.pop();
                 i++;
