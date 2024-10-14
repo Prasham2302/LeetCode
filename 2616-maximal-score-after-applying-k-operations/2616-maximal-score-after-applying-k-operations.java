@@ -5,11 +5,10 @@ class Solution {
             pq.add(num);
         }
         long score = 0;
-        while (k > 0) {
+        while (k-- > 0) {
             int curr = pq.poll();
             score += curr;
             pq.add((curr+2) / 3);
-            k--;
         }
         return score;
     }
