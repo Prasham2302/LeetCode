@@ -1,15 +1,14 @@
 class Solution {
     public long maxKelements(int[] nums, int k) {
-        PriorityQueue<Double> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         for (int num : nums) {
-            pq.add((double) num);
+            pq.add(num);
         }
         long score = 0;
         while (k > 0) {
-            double curr = pq.poll();
-            // System.out.println(curr);
+            int curr = pq.poll();
             score += curr;
-            pq.add(Math.ceil(curr / 3));
+            pq.add((curr+2) / 3);
             k--;
         }
         return score;
