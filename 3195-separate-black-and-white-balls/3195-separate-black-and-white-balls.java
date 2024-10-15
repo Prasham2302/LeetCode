@@ -5,10 +5,10 @@ class Solution {
         for(char curr : s.toCharArray()) {
             if (curr == '1') {
                 countOne++;
+                continue;
             }
-            else {
-                swaps+=countOne;
-            }
+            swaps+=countOne;
+            
         }
         return swaps;
     }
