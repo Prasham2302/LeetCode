@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prasham2302/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Prasham2302/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Two Pointers
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-maximum-achievable-number](https://github.com/Prasham2302/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Number Theory
 |  |
 | ------- |
