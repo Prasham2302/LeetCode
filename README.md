@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasham2302/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/Prasham2302/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1137-height-checker](https://github.com/Prasham2302/LeetCode/tree/master/1137-height-checker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prasham2302/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prasham2302/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prasham2302/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1137-height-checker](https://github.com/Prasham2302/LeetCode/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prasham2302/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prasham2302/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prasham2302/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prasham2302/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Prasham2302/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
