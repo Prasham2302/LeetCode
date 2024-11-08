@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Prasham2302/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/Prasham2302/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2357-count-integers-in-intervals](https://github.com/Prasham2302/LeetCode/tree/master/2357-count-integers-in-intervals) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Linked List
 |  |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Prasham2302/LeetCode/tree/master/1137-height-checker) |
+## Segment Tree
+|  |
+| ------- |
+| [2357-count-integers-in-intervals](https://github.com/Prasham2302/LeetCode/tree/master/2357-count-integers-in-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [2357-count-integers-in-intervals](https://github.com/Prasham2302/LeetCode/tree/master/2357-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
