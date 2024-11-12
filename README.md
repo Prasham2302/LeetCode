@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prasham2302/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Prasham2302/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3429-special-array-i](https://github.com/Prasham2302/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Two Pointers
