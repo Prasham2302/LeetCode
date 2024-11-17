@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prasham2302/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prasham2302/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prasham2302/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/Prasham2302/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Prasham2302/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1923-sentence-similarity-iii](https://github.com/Prasham2302/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Prasham2302/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasham2302/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1023-time-based-key-value-store](https://github.com/Prasham2302/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1646-kth-missing-positive-number](https://github.com/Prasham2302/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prasham2302/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
