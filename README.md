@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prasham2302/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prasham2302/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prasham2302/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prasham2302/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prasham2302/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prasham2302/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prasham2302/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prasham2302/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Prasham2302/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Counting
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prasham2302/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/Prasham2302/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prasham2302/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prasham2302/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
