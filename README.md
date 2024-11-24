@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Prasham2302/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1923-sentence-similarity-iii](https://github.com/Prasham2302/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prasham2302/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-maximum-matrix-sum](https://github.com/Prasham2302/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prasham2302/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prasham2302/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prasham2302/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2089-maximum-matrix-sum](https://github.com/Prasham2302/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prasham2302/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prasham2302/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prasham2302/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2089-maximum-matrix-sum](https://github.com/Prasham2302/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
