@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prasham2302/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prasham2302/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prasham2302/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/Prasham2302/LeetCode/tree/master/3226-minimum-number-game) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prasham2302/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prasham2302/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Prasham2302/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/Prasham2302/LeetCode/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prasham2302/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3199-distribute-candies-among-children-i](https://github.com/Prasham2302/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prasham2302/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
