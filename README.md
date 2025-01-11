@@ -222,14 +222,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Sliding Window
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0518-coin-change-ii](https://github.com/Prasham2302/LeetCode/tree/master/0518-coin-change-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Prasham2302/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prasham2302/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
