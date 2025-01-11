@@ -27,12 +27,12 @@ class Solution {
         if(root == null){
             return 0;
         }
-        ans = Math.max(root.val, ans);
         int left = helper(root.left);
-        ans = Math.max(ans, root.val + left);
         int right = helper(root.right);
-        ans = Math.max(ans, root.val + right);
-        ans = Math.max(left + right + root.val, ans);
-        return Math.max(Math.max(left + root.val, right + root.val), root.val);
+        ans = Math.max(ans, root.val + left + right);
+        ans = Math.max(ans, Math.max(root.val + left, root.val+right));
+        ans = Math.max(ans, root.val);
+        return Math.max(root.val, Math.max(left + root.val, right + root.val));
+        
     }
 }
