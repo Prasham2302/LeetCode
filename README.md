@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prasham2302/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Prasham2302/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1830-count-good-meals](https://github.com/Prasham2302/LeetCode/tree/master/1830-count-good-meals) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Prasham2302/LeetCode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prasham2302/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Prasham2302/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prasham2302/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prasham2302/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prasham2302/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1830-count-good-meals](https://github.com/Prasham2302/LeetCode/tree/master/1830-count-good-meals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prasham2302/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prasham2302/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
