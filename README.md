@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prasham2302/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Prasham2302/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Prasham2302/LeetCode/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/Prasham2302/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prasham2302/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Prasham2302/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0518-coin-change-ii](https://github.com/Prasham2302/LeetCode/tree/master/0518-coin-change-ii) |
