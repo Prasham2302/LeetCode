@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Prasham2302/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Prasham2302/LeetCode/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/Prasham2302/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prasham2302/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Prasham2302/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Prasham2302/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Prasham2302/LeetCode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0518-coin-change-ii](https://github.com/Prasham2302/LeetCode/tree/master/0518-coin-change-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Prasham2302/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
