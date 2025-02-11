@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prasham2302/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Prasham2302/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2465-shifting-letters-ii](https://github.com/Prasham2302/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Prasham2302/LeetCode/tree/master/2502-sort-the-people) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Prasham2302/LeetCode/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Prasham2302/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prasham2302/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prasham2302/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prasham2302/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prasham2302/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/Prasham2302/LeetCode/tree/master/3226-minimum-number-game) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Prasham2302/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/Prasham2302/LeetCode/tree/master/1582-design-browser-history) |
 | [2357-count-integers-in-intervals](https://github.com/Prasham2302/LeetCode/tree/master/2357-count-integers-in-intervals) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3516-design-neighbor-sum-service](https://github.com/Prasham2302/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Linked List
 |  |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Prasham2302/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prasham2302/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Prasham2302/LeetCode/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Bucket Sort
 |  |
 | ------- |
