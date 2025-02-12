@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prasham2302/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasham2302/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Prasham2302/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/Prasham2302/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prasham2302/LeetCode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0974-reorder-data-in-log-files](https://github.com/Prasham2302/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Prasham2302/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Prasham2302/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Dynamic Programming
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Prasham2302/LeetCode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Prasham2302/LeetCode/tree/master/0337-house-robber-iii) |
+| [0494-target-sum](https://github.com/Prasham2302/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prasham2302/LeetCode/tree/master/0518-coin-change-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Prasham2302/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prasham2302/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
