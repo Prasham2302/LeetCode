@@ -419,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Prasham2302/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
