@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Prasham2302/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Prasham2302/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2159-two-out-of-three](https://github.com/Prasham2302/LeetCode/tree/master/2159-two-out-of-three) |
+| [2165-plates-between-candles](https://github.com/Prasham2302/LeetCode/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prasham2302/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prasham2302/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prasham2302/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Prasham2302/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2165-plates-between-candles](https://github.com/Prasham2302/LeetCode/tree/master/2165-plates-between-candles) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prasham2302/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prasham2302/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/Prasham2302/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/Prasham2302/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2165-plates-between-candles](https://github.com/Prasham2302/LeetCode/tree/master/2165-plates-between-candles) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prasham2302/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prasham2302/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prasham2302/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prasham2302/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2165-plates-between-candles](https://github.com/Prasham2302/LeetCode/tree/master/2165-plates-between-candles) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Prasham2302/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prasham2302/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Prasham2302/LeetCode/tree/master/2465-shifting-letters-ii) |
