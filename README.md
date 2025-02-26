@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Prasham2302/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prasham2302/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Prasham2302/LeetCode/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Prasham2302/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prasham2302/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
