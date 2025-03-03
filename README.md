@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-plates-between-candles](https://github.com/Prasham2302/LeetCode/tree/master/2165-plates-between-candles) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prasham2302/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prasham2302/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prasham2302/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prasham2302/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Prasham2302/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prasham2302/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Prasham2302/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prasham2302/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Prasham2302/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Prasham2302/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prasham2302/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prasham2302/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prasham2302/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prasham2302/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2389-design-a-text-editor](https://github.com/Prasham2302/LeetCode/tree/master/2389-design-a-text-editor) |
