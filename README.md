@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Prasham2302/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prasham2302/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prasham2302/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Prasham2302/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prasham2302/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3199-distribute-candies-among-children-i](https://github.com/Prasham2302/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
