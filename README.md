@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prasham2302/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Prasham2302/LeetCode/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prasham2302/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prasham2302/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Prasham2302/LeetCode/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prasham2302/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prasham2302/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prasham2302/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Prasham2302/LeetCode/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prasham2302/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prasham2302/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -456,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Prasham2302/LeetCode/tree/master/3189-find-champion-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prasham2302/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
