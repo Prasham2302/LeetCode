@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Prasham2302/LeetCode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/Prasham2302/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prasham2302/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3567-convert-date-to-binary](https://github.com/Prasham2302/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/Prasham2302/LeetCode/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/Prasham2302/LeetCode/tree/master/3199-distribute-candies-among-children-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Prasham2302/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prasham2302/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/Prasham2302/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prasham2302/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
