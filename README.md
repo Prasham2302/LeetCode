@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Prasham2302/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Prasham2302/LeetCode/tree/master/0091-decode-ways) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prasham2302/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Prasham2302/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prasham2302/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/Prasham2302/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prasham2302/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prasham2302/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1023-time-based-key-value-store](https://github.com/Prasham2302/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Prasham2302/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasham2302/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prasham2302/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prasham2302/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/Prasham2302/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prasham2302/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
