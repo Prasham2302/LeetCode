@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prasham2302/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0277-find-the-celebrity](https://github.com/Prasham2302/LeetCode/tree/master/0277-find-the-celebrity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prasham2302/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prasham2302/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Prasham2302/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -487,9 +488,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/Prasham2302/LeetCode/tree/master/0277-find-the-celebrity) |
 | [3189-find-champion-ii](https://github.com/Prasham2302/LeetCode/tree/master/3189-find-champion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prasham2302/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/Prasham2302/LeetCode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
